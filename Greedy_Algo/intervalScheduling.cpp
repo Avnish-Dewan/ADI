@@ -15,7 +15,7 @@ bool compare(struct Interval a,struct Interval b)
 int main()
 {
     int n;
-    cin>>n;037
+    cin>>n;
 
     struct Interval intervals[n];
 
