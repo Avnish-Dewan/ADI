@@ -64,6 +64,7 @@ int main()
     {
         cout<<available[i]<<" ";
     }
+    //
     cout<<endl<<profit<<endl;
     
     
