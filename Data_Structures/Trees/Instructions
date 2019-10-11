@@ -1,0 +1,22 @@
+Input Format:
+
+1st line : 1 or 2 for creating a Binary Tree or a Binary Search Tree respectively
+
+2nd Line : Number of Nodes in Tree
+
+3rd Line : if Binary Tree
+            Then  
+            1 2 L
+            1 3 R
+            2 5 L
+            2 6 R
+                  will form
+                              1
+                             / \
+                            2   3
+                           / \
+                          5   6
+           if BST
+              Then input N integers
+
+
