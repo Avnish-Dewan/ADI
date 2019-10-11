@@ -42,7 +42,7 @@ bool validateTags(string s)
 int main()
 {
     string s;
-    ifstream fin("test.html");
+    ifstream fin("test.html");// change The File Name As Per file
     char c;
     while (fin.eof() == 0)
     {
