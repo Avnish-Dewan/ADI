@@ -13,6 +13,7 @@ string common(string str1,string str2)
     }
     return res;
 }
+
 int main()
 {
     int n;
